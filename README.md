@@ -1,18 +1,3 @@
-# 🧠 NLP-Based Text Classification: From Raw Text to Intelligent Predictions
+# 🛡️ Hate Speech Detection Using NLP and Machine Learning
 
-This repository contains an NLP (Natural Language Processing) solution for classifying text data using machine learning and deep learning techniques. The project covers the complete pipeline from text preprocessing to model deployment.
-
----
-
-## 📌 Project Highlights
-
-- 📄 Clean and preprocess raw textual data
-- 🧹 Tokenization, Lemmatization, Stopword Removal
-- 🧠 Build and train models using classical ML and modern DL (e.g., BERT, LSTM)
-- 📊 Evaluate models using standard NLP metrics
-- 🌐 Optional Streamlit or Flask web interface
-
----
-
-
-
+This project leverages Natural Language Processing (NLP) techniques and machine learning algorithms to detect hate speech in text data. It involves preprocessing text, transforming it using TF-IDF vectorization, and applying classification models such as Logistic Regression to accurately distinguish between hateful and non-hateful content. The solution is designed for scalability and can be extended for use in content moderation, social media monitoring, or any platform that aims to promote respectful online communication.
